@@ -1,4 +1,4 @@
-# DataBase_miniEngine
+# Database Mini-engine
 Summary: A Mini Database engine without the support of joins 
 
 Detailed: 
